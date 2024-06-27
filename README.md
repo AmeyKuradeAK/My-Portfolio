@@ -18,3 +18,6 @@ To build the version.
 ```
 npm run build
 ```
+
+# Contribution
+This repository is archivied or read-only. So you can't contribute. 
